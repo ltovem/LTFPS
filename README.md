@@ -29,3 +29,13 @@ Then, run the following command:
 ```bash
 $ pod install
 ```
+## how to use
+you can start LTFPS by write a line code in monted `didFinishLaunchingWithOptions` with `Appdelegate`class like this
+``` objc
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+#if DEBUG
+    LTFPS.share.enable = YES;
+#endif
+    return YES;
+}
+```
