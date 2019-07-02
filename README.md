@@ -39,5 +39,12 @@ you can start LTFPS by write a line code in monted `didFinishLaunchingWithOption
     return YES;
 }
 ```
+You can see FPSLAbel when you run the app.
+<image src="https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screenimage.png" width=30% alt="screen"/>
 
-<image src="https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screenimage.png" width=50% alt="screen"/>
+##  Other functions
+1. You can drag the LTFPS Label to the position you want.
+2. You can sign up for LTFPS notifications like this for obser click LTFPS label
+
+``` objc
+
