@@ -40,4 +40,4 @@ you can start LTFPS by write a line code in monted `didFinishLaunchingWithOption
 }
 ```
 
-![screen](https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screen.png)
+<image src="https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screenimage.png" width=50% alt="screen"/>
