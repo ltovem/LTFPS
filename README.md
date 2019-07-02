@@ -39,3 +39,5 @@ you can start LTFPS by write a line code in monted `didFinishLaunchingWithOption
     return YES;
 }
 ```
+
+![screen](https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screen.png)
