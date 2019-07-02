@@ -39,7 +39,8 @@ you can start LTFPS by write a line code in monted `didFinishLaunchingWithOption
     return YES;
 }
 ```
-You can see FPSLAbel when you run the app.
+###  You can see FPSLAbel when you run the app.
+
 <image src="https://raw.githubusercontent.com/LTOVEM/LTFPS/master/screenimage.png" width=30% alt="screen"/>
 
 ##  Other functions
@@ -48,3 +49,5 @@ You can see FPSLAbel when you run the app.
 
 ``` objc
 
+
+```
